@@ -1,16 +1,16 @@
-## Hi there 👋
+# Hi there, I'm Majid! 👋
 
-<!--
-**MDT-del/MDT-del** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 👨‍🔬 Chemical Engineer | 🦀 Rust Developer | 📈 Trader
 
-Here are some ideas to get you started:
+I am a Chemical Engineer who decided to follow his passion for systems programming. Currently, I am mastering **Rust** to build high-performance tools for financial markets and backend systems.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I’m currently working on: **Rust Learning Path & Trading Journal System**
+- 🌱 I’m currently learning: **Advanced Rust, Linux Systems, and Infrastructure**
+- ⚡ Fun fact: I lost 22kg in a year through pure discipline—the same discipline I bring to my code.
+
+### 🛠 Tech Stack
+![Rust](https://img.shields.io/badge/rust-%23E24D25.svg?style=for-the-badge&logo=rust&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+
+---
+> "Discipline equals freedom."
